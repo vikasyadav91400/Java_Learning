@@ -1,4 +1,4 @@
-public class Variable_Datatype_01 {
+public class Ch01_Variable_Datatype {
     public static void main(String[]agrs){
       int age = 22;
         double marks = 85.5;
